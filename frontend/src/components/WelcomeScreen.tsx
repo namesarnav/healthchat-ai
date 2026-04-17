@@ -37,7 +37,7 @@ export function WelcomeScreen({ onSuggestion }: Props) {
         <Heart size={32} className="text-emerald-600" strokeWidth={1.5} />
       </div>
 
-      <h1 className="text-2xl font-bold text-foreground mb-1">HealthChat AI</h1>
+      <h1 className="text-2xl font-bold text-foreground mb-1">Sanjeevni</h1>
       <p className="text-muted-foreground text-sm max-w-sm mb-8">
         Your personal health assistant. Describe your symptoms and I'll help you understand
         what might be going on and whether you need professional care.
