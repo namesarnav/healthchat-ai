@@ -28,7 +28,7 @@ export default function App() {
             <Heart size={16} className="text-emerald-600" strokeWidth={2} />
           </div>
           <div>
-            <h1 className="font-semibold text-sm leading-none">HealthChat AI</h1>
+            <h1 className="font-semibold text-sm leading-none">Sanjeevni</h1>
             <p className="text-[10px] text-muted-foreground mt-0.5 leading-none">Powered by Gemini 2.5 Flash</p>
           </div>
         </div>
